@@ -4,9 +4,9 @@
 ![Java2D](https://img.shields.io/badge/Java2D-AWT%20%2F%20Canvas-2E4053?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Playable-2ECC71?style=for-the-badge)
 
-**Space Ship** es un videojuego arcade 2D de supervivencia espacial desarrollado en Java. Pilota una nave, destruye meteoritos y UFOs, recoge mejoras acumulables y alcanza la mayor puntuación posible.
+**Space Ship** es un videojuego arcade 2D de supervivencia espacial desarrollado en Java que trata de pilotar una nave, destruir meteoritos y UFOs; se recogen mejoras acumulables para alcanzar la mayor puntuación posible.
 
-> Esta edición es una **mejora independiente** basada en el repositorio [SpaceShipGame](https://github.com/JoshuaHernandezMartinez/SpaceShipGame), en particular en la implementación `Space Ship Game episode 24_final` de Joshua Hernandez Martinez. Conserva la atribución del punto de partida y amplía la experiencia con una interfaz, configuración y sistemas adicionales.
+> Esta edición es una **mejora independiente** basada en el repositorio [SpaceShipGame](https://github.com/JoshuaHernandezMartinez/SpaceShipGame), en particular en la implementación `Space Ship Game episode 24_final` de Joshua Hernandez Martinez donde se conserva la atribución del punto de partida y amplía la experiencia con una interfaz, configuración y sistemas adicionales.
 
 ## 🎥 Demo en video
 
@@ -109,7 +109,7 @@ El juego utiliza un bucle de actualización y renderizado con `Canvas` y `Buffer
 
 ## 🏆 Puntajes y preferencias
 
-Al terminar una partida se registra el nombre del piloto y la tabla muestra los diez mejores resultados. Los datos quedan guardados fuera del repositorio, dentro del perfil local del usuario, para no mezclar puntuaciones personales con el código fuente.
+Al terminar una partida se registra el nombre del piloto y la tabla muestra los diez mejores resultados, los datos quedan guardados fuera del repositorio, dentro del perfil local del usuario, para no mezclar puntuaciones personales con el código fuente.
 
 ## 🛠️ Tecnologías
 
