@@ -1,0 +1,8 @@
+# Compilación e IDE
+out/
+.idea/
+*.iml
+
+# Datos generados localmente
+Space_Ship_Game/
+data/
